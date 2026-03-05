@@ -157,8 +157,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("https://raw.githubusercontent.com/vaishnabipanthi/Portfolio-website/main/images/background.png") no-repeat center !important;
-    height: 100vh;
+    background: url("background.png") no-repeat center;
     color: #fdf9f9;
     min-height: 500px;
     background-size: cover;
